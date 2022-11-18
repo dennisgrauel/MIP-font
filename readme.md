@@ -14,6 +14,15 @@ Maps are documents which necessarily reduce information through omission or abst
 ![MIP-overview](/documentation/images/MIP-process-2.png)
 During the workshop, participants traced letters collaboratively using Figma.
 
+### Contributors to this project include:
+
+Max Hall
+Courtney Bee
+Dr Julie Reed Henderson
+Lauren Bezzina
+
+& Many more workshop participants – if you attended the ACE Mapping workshop and would like your name added, email me!
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. The license is included in this repository, and is also available with a FAQ at http://scripts.sil.org/OFL
